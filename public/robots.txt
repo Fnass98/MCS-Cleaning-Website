@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.mycleaningsolutions.co.uk/sitemap.xml

@@ -1,0 +1,52 @@
+
+{
+  "siteInfo": {
+    "siteName": "My Cleaning Solutions",
+    "domain": "https://www.mycleaningsolutions.co.uk",
+    "phone": "+44 7385 813282",
+    "email": "info@mycleaningsolutions.co.uk",
+    "address": {
+      "locality": "Harrow",
+      "region": "Greater London",
+      "country": "GB"
+    }
+  },
+  "homepage": {
+    "title": "Professional Commercial Cleaning | My Cleaning Solutions",
+    "metaDescription": "Professional commercial cleaning services in North West London. CQC compliant, fully insured. Office, medical, end of tenancy cleaning. 5-star rated.",
+    "heroSection": {
+      "heading": "Elevating Standards in Commercial Cleaning",
+      "subheading": "Professional, CQC compliant cleaning services across North West London",
+      "ctaText": "Get Free Quote"
+    }
+  },
+  "services": {
+    "office": {
+      "title": "Office Cleaning Services",
+      "description": "Professional office cleaning tailored to your business needs",
+      "features": [
+        "Daily, weekly, or monthly schedules",
+        "Eco-friendly cleaning products",
+        "Fully insured and vetted staff"
+      ]
+    },
+    "medical": {
+      "title": "Medical & Healthcare Cleaning",
+      "description": "CQC compliant medical facility cleaning services",
+      "features": [
+        "CQC compliant procedures",
+        "Specialized medical-grade disinfection",
+        "Trained healthcare cleaning staff"
+      ]
+    },
+    "endOfTenancy": {
+      "title": "End of Tenancy Cleaning",
+      "description": "Comprehensive move-out cleaning services",
+      "features": [
+        "Deposit back guarantee",
+        "Deep cleaning all areas",
+        "Professional grade equipment"
+      ]
+    }
+  }
+}
